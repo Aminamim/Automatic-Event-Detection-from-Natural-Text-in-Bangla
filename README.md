@@ -1,0 +1,2 @@
+# Automatic-Event-Detection-from-Natural-Text-in-Bangla
+This is the first attempt on Event Detection in Bangla using NLP. Dataset is manually developed with the help of Word2vec giving it a proper contextual meaning. Several models has been built and trained with the dataset. After several experiments, it was evident that Deep Learning models give state of the art result in event detection from natural text in Bangla language. Main Features are Wrod2vec, Transfer learning &amp; Deep learning
